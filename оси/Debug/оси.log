@@ -1,3 +1,0 @@
-﻿  Source.cpp
-C:\Users\hoc13\source\repos\OS1\оси\Source.cpp(49,55): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-  оси.vcxproj -> C:\Users\hoc13\source\repos\OS1\Debug\оси.exe
